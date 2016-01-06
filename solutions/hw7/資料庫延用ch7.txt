@@ -1,0 +1,3 @@
+所有資料庫延用 ch7 的設定 (第七章課程範例資料庫)
+討論區延用 board1 的 table
+留言板延用 guestbook3 的 table
